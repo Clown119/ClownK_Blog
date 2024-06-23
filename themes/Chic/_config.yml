@@ -3,7 +3,7 @@ navname: ClownK's Blog
 
 # navigatior items
 nav:
-  Archives: /archives
+  Posts: /archives
   Categories: /category
   Tags: /tag
   About: /about
