@@ -100,6 +100,15 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: Chic
 
+# plugin functions
+## Mathjax: Math Formula Support
+## https://www.mathjax.org
+mathjax:
+  enable: true
+  import: demand # global or demand
+  ## global: all pages will load mathjax,this will degrade performance and some grammers may be parsed wrong.
+  ## demand: if your post need fomula, you can declare 'mathjax: true' in Front-matter
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
