@@ -25,3 +25,5 @@ int main()
     return 0;
 }
 ```
+
+![code](https://cdn.jsdelivr.net/gh/Clown119/Image/code.png)
