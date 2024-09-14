@@ -7,6 +7,15 @@ nav:
   Categories: /category
   Tags: /tag
   About: /about
+  
+About:
+  enable: true
+  banner_img: /image/background.jpg
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+  avatar: /image/avatar.jpg
+  name: "ClownK"
+  intro: "Everything will Be OK!"
 
 # favicon
 favicon: /favicon.ico
