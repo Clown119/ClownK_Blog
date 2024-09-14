@@ -104,5 +104,9 @@ mathjax:
   import: demand # global or demand
   ## global: all pages will load mathjax,this will degrade performance and some grammers may be parsed wrong.
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
+
 mermaid:
-  enable: true
+  version: 11.2.0 
+  enable: true # 默认为 True
+  # Available themes: default | dark | forest | neutral
+  # theme: forest
