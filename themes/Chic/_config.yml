@@ -106,7 +106,7 @@ mathjax:
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
 
 mermaid:
-  version: 11.0.2 
+  version: 8.14.0 
   enable: true # 默认为 True
   # Available themes: default | dark | forest | neutral
   # theme: forest
