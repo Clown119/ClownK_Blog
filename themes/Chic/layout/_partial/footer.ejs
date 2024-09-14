@@ -9,8 +9,12 @@
 	  if (window.mermaid) {
 		mermaid.initialize({
 						startOnLoad: true,
-						theme: 'neutral',
-							 });
+						theme: 'default',
+						flowchart: {
+							useMaxWidth: false,
+							htmlLabels: true
+						}
+		});
 	  }
 	</script>
 <% } %>
