@@ -1,5 +1,6 @@
 ---
 title: FPGA基础知识
+urlname: FPGA基础知识
 mathjax: false
 date: 2024-07-15 17:40:21
 categories: FPGA

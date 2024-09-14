@@ -1,5 +1,6 @@
 ---
 title: test
+urlname: test
 mathjax: false
 date: 2024-06-23 16:24:23
 tags: test
